@@ -59,7 +59,7 @@ class CreateActivity : AppCompatActivity() {
 
     rvImagePicker = findViewById(R.id.rvImagePicker)
     etGameName = findViewById(R.id.etGameName)
-    btnSave = findViewById(R.i34d.btnSave)
+    btnSave = findViewById(R.id.btnSave)
     pbUploading = findViewById(R.id.pbUploading)
 
     supportActionBar?.setDisplayHomeAsUpEnabled(true)
